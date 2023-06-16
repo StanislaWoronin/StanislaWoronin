@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi 👋
+#### My name is Stanislav
 
-Languages and Tools: \
+#### How to reach me: \
+
+[![Telegram](https://img.shields.io/badge/Telegram-151515??style=for-the-badge&logo=telegram)](https://t.me/Valefhart)
+[![Gmail](https://img.shields.io/badge/Gmail-151515??style=for-the-badge&logo=gmail)](mailto:stanislaworonin@gmail.com)
+
+#### Languages and Tools: \
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-151515??style=for-the-badge&logo=TypeScript)
 ![NestJs](https://img.shields.io/badge/NestJs-151515??style=for-the-badge&logo=NestJs&logoColor=e0234e)
 ![express](https://img.shields.io/badge/express-151515??style=for-the-badge&logo=express)
@@ -12,3 +19,7 @@ Languages and Tools: \
 ![Jest](https://img.shields.io/badge/Jest-151515??style=for-the-badge&logo=jest)
 ![Postman](https://img.shields.io/badge/Postman-151515??style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-151515??style=for-the-badge&logo=git)
+![Auth0](https://img.shields.io/badge/Auth0-151515??style=for-the-badge&logo=auth0)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-151515??style=for-the-badge&logo=Elastic)
+
+

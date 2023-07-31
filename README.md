@@ -24,5 +24,5 @@
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-151515??style=for-the-badge&logo=Elastic)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=StanislaWoronin&theme=dark&card_width=507&count_private=true)](https://git.io/streak-stats)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=true)
 

@@ -25,4 +25,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=StanislaWoronin&theme=dark&card_width=507&count_private=true)](https://git.io/streak-stats)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=true)

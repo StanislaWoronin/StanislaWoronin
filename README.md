@@ -16,12 +16,10 @@
 ![mongodb](https://img.shields.io/badge/mongodb-151515??style=for-the-badge&logo=mongodb)
 ![graphql](https://img.shields.io/badge/graphql-151515??style=for-the-badge&logo=graphql&logoWidth=22)\
 ![RabbitMG](https://img.shields.io/badge/RabbitMG-151515??style=for-the-badge&logo=rabbitmq)
-![Docker](https://img.shields.io/badge/Docker-151515??style=for-the-badge&logo=docker)
 ![Jest](https://img.shields.io/badge/Jest-151515??style=for-the-badge&logo=jest&logoWidth=20)
 ![Postman](https://img.shields.io/badge/Postman-151515??style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-151515??style=for-the-badge&logo=git)
 ![Auth0](https://img.shields.io/badge/Auth0-151515??style=for-the-badge&logo=auth0)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-151515??style=for-the-badge&logo=Elastic)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=StanislaWoronin&theme=dark&card_width=507&count_private=true)](https://git.io/streak-stats)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislaWoronin&layout=compact&theme=dark&card_width=507&count_private=true)
